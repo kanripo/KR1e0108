@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋闕如編
-#+DATE: 2015-09-23 09:40:37
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:17:18.538711
+#+PROPERTY: ID KR1e0108
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1e0108_WYG_006-1a>¶
 欽定四庫全書¶
 　春秋闕如編卷六¶
@@ -1010,4 +1012,3 @@
 　(前獲麟以後非無亂賊何獨幸而免乎要之誅一人/而千萬人懼彼名字不見於春秋而惡同宋督楚商)¶
 　(臣等者一臨秦鏡不容不䘮胆褫魄也/矣故曰孔子之事莫大於春秋者此也)¶
 　春秋闕如編卷六¶
-
